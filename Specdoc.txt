@@ -1,0 +1,56 @@
+
+Project and Developer Details
+Project Name: LockedMe.Com
+Project Details: 
+It is file management system, which creates a root directory by creating a bin folder in the file application. It gives user the capability to list files/folder present in this root directory as well as add files from this root directory. It also gives the user a capability to search all the files with a particular name in the directory.
+Developer Details:
+Developer Name: Anupam Kumari
+Developer Simplilearn Userid: anupmkumari118@gmail.com
+
+Sprint Details for the project
+No. of Sprints Planned: 3
+Sprint 1 
+
+In the first sprint a basic structure to the application was developed, with the simple capability of listing the user data present in the root directory.
+The application has a three tier structure. 
+The presentation layer, the business validation layer and the data access layer.
+•	The presentation layer is the console. It is responsible for taking the inputs from the user as well as showing the outcome/output to the user. Thus it is the layer which communicates with the user.
+
+•	The Business Validation layer is responsible for validating the input from the user. 
+Sprint 2
+
+•	The data access layer process this user input and performs the operation as per the user input. This basic structure was created using various classes and interfaces. Also the logic to list the files present in the root directory was developed.
+
+Sprint 3 
+Details:
+The above application was enhanced to incorporate additional features like addition/ removal/ search of a file. 
+This included creating a submenu. And  adding the above options. New methods had to be created for this purpose.
+
+Application Logic
+The Application has a main menu, and a submenu. The main menu gives you an option to Register and login to the directory.
+The submenu gives you the access to update the directory for user specified details. And access it for different operation.
+
+
+Core concepts used in the project
+Java concepts implemented in this application:
+1)	Classes
+2)	Interface
+3)	Inheritance
+4)	Constructors
+5)	LinkedList
+6)	Data Encapsulation (using private along with setters and getters)
+7)	Exception Handling
+8)	 File class
+9)	 For, While, Switch Case, If-Else ladder, and other logic related functions.
+
+
+
+
+
+
+Links to the GitHub repository to verify the project completion
+https://github.com/anupm118/LockedMe.git 
+
+Conclusion
+There is a huge scope of improvement in the present project, one can easily add the functionality for navigating within folders, and adding, deleting files within a folder of the root directory. 
+The USP of the project is that it can be used by individuals to safe keep data in serialised form. 
